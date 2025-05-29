@@ -10,3 +10,5 @@ s = '''This is a multi-line string.
 This is the second line.'''
 print(s)
 
+print(13//4)
+print(13%4)
